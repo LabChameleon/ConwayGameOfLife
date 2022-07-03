@@ -1,0 +1,2 @@
+A simple implementation of Conway's Game of Life. The left mouse button can be used to set cells as
+active and pressing the key 'w' starts simulating the current population of active cells.
